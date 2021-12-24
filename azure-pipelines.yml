@@ -18,8 +18,8 @@ steps:
 
 resources:
   pipelines:
-    - pipeline: BuildPipe
-      source: My Build Pipe
+    - pipeline: kingj
+      source: kingj
       trigger:
         tags:
           - ci
